@@ -4,8 +4,8 @@ echo "Username twitter checker available\n";
 echo "Follow instagram @inuubae\n";
 echo "\n";
 
-echo "[1] Random : \n";
-echo "[2] Username list : \n";
+echo "[1] Random \n";
+echo "[2] Username list \n";
 echo "Pilih Opsi : ";
 $opsi = trim(fgets(STDIN));
 
